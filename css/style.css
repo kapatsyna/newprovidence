@@ -1101,8 +1101,3 @@ h6 {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-@media (max-width: 400px) {
-  .footer {
-    padding-bottom: 80px;
-  }
-}
